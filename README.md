@@ -2,7 +2,8 @@
 <h3 align="center">Frontend</h3>
 
 - 💬 Ask me about **html, css, javascript, bootstrap y angular**
-
+- 💬 How to reach me **html, css, javascript, bootstrap y angular**
+<a href="mailto:guillermoglezgil1993@gmail.com"></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/guillermo-gonzález-gil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guillermo-gonzález-gil" height="30" width="40" /></a>
